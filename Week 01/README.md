@@ -41,6 +41,13 @@ At the end of this activity, I aim to:
 
 Open file Screenshot on week 01 folder
 
+- https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/1.%20Git.png
+- https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/2.%20Github%20Desktop.png
+- https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/3.%20VS%20code.png
+- https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/4.%20Virtual%20Box.png
+- https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/6.%20Ubuntu%20Server%20ISO.png
+- https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/7.%20Windows%2011%20Enterprise%20Evaluation%20ISO.png
+  
 --- 
 
 # Challenges Encountered
