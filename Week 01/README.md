@@ -39,8 +39,6 @@ At the end of this activity, I aim to:
 
 # Installation Screenshots 
 
-Open file Screenshot on week 01 folder
-
 - https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/1.%20Git.png
 - https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/2.%20Github%20Desktop.png
 - https://github.com/tiennito/BSIT-SystemAdministration-Portfolio-/blob/main/Week%2001/Screenshots/3.%20VS%20code.png
