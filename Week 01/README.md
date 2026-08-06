@@ -71,11 +71,6 @@ This activity strengthened both my technical communication and professional pres
 
 # References
 
-Google Prompting Essentials Specialization 
-https://www.coursera.org/account/accomplishments/specialization/FL53Q8CA2WXG
-
-Google AI Essentials Specialization 
-https://www.coursera.org/account/accomplishments/specialization/DAHLEVMBIDWV
-
-Python Essentials 1 
-https://www.netacad.com/certificates/?issuanceId=69237637-597d-45af-a863-175e522ca93a
+- Google Prompting Essentials Specialization  https://www.coursera.org/account/accomplishments/specialization/FL53Q8CA2WXG
+- Google AI Essentials Specialization  https://www.coursera.org/account/accomplishments/specialization/DAHLEVMBIDWV
+- Python Essentials 1  https://www.netacad.com/certificates/?issuanceId=69237637-597d-45af-a863-175e522ca93a
