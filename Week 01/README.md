@@ -1,7 +1,7 @@
 # Week 1 – Building My Professional Environment 
 
 ## Student Information 
-- Name: HERNANDEZ, SEBASTIEN B.
+ü Name: HERNANDEZ, SEBASTIEN B.
 - Course: BSIT
 - Section: 4A WAM
 - Date: August 7, 2026
