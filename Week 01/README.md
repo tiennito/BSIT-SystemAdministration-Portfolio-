@@ -34,8 +34,8 @@ At the end of this activity, I aim to:
 
 # Professional Accounts
 
-GitHub: https://github.com/tiennito
-LinkedIn: https://www.linkedin.com/in/sebastien-hernandez-889b073b5
+- GitHub: https://github.com/tiennito
+- LinkedIn: https://www.linkedin.com/in/sebastien-hernandez-889b073b5
 
 # Installation Screenshots 
 
