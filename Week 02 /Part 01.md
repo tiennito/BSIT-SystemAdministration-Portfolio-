@@ -24,7 +24,7 @@ ABC Startup Solutions aims to deliver high-quality software and technology servi
 
 ## 1.6 Organizational Structure
 
-*CEO*  
+### *CEO*  
 
 Information Technology Departmen
 - IT Manager / System Administrator
@@ -47,21 +47,15 @@ Sales Department
   
 ## 1.7 Employee Distribution
 
-Information Technology
-- Five Employees
-- 25%
-
-Human Resources 
-- Four Employees
-- 20%
-
-Finance 
-- Five Employees
-- 25%
-
-Sales 
-- Six Employees
-- 30%
+| Department | Number of Employees | Percentage |
+|---|---:|---:|
+| Information Technology | 5 | 25% |
+| Human Resources | 4 | 20% |
+| Finance | 5 | 25% |
+| Sales | 6 | 30% |
+| **Total** | **20** | **100%** |
 
 TOTAL of 20 Employees with 100% Contribution
+---
+**Note:** Some paragraphs in this md were developed with the assistance of ChatGPT to improve clarity, structure, and overall presentation while preserving the original ideas and intended content.
 
